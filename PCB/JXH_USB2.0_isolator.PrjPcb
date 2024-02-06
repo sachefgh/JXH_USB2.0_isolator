@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UOGSVHGL
 
 [Document4]
-DocumentPath=Sheet.SchDoc
+DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

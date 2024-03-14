@@ -1,0 +1,18 @@
+# Prerequisites
+#*.d
+
+# Executables
+#*.exe
+#*.out
+#*.app
+
+
+# ZIP files
+*.rar
+*.zip
+*.7z
+
+#forder
+PCB/History/
+PCB/__Previews/
+
